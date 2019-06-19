@@ -1,0 +1,2 @@
+# Komponenseim
+Felhasználható kódrészletek, komponensek
